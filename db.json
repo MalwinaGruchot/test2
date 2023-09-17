@@ -56,7 +56,7 @@
       "name": "Owoce dla zdrowia",
       "id": 11,
       "category": ["articles"],
-      "article":,
+      "article":[],
       "url": "../../src/assets/smoothie.jpg"
     },
     {
