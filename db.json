@@ -166,19 +166,19 @@
       "name": "Ranking kremów do twarzy",
       "id": 10,
       "category": ["articles"],
-      "url": 1
+      "url": 0
     },
     {
       "name": "Owoce dla zdrowia",
       "id": 11,
       "category": ["articles"],
-      "url": 2
+      "url": 1
     },
     {
       "name": "Witamina D",
       "id": 12,
       "category": ["articles"],
-      "url": 3
+      "url": 2
     }
   ]
 }
