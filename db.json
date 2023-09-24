@@ -14,7 +14,7 @@
       "price": 20.0,
       "id": 2,
       "category": ["forYou", "Promocje"],
-      "url": "../../src/assets/products/krem.jpg"
+      "url": "krem"
     },
     {
       "name": "Balsam do ust",
@@ -22,7 +22,7 @@
       "price": 15.0,
       "id": 3,
       "category": ["forYou", "Promocje"],
-      "url": "../../src/assets/products/balsamr.jpg"
+      "url": "balsamr"
     },
     {
       "name": "Balsam do ciała",
@@ -30,7 +30,7 @@
       "price": 30.0,
       "id": 4,
       "category": ["weeksProducts", "Promocje"],
-      "url": "../../src/assets/products/balsamdociala.jpg"
+      "url": "balsamdociala"
     },
     {
       "name": "Bandaż",
@@ -38,7 +38,7 @@
       "price": 5.0,
       "id": 5,
       "category": ["weeksProducts", "Środki opatrunkowe"],
-      "url": "../../src/assets/products/bandaz.jpg"
+      "url": "bandaz"
     },
     {
       "name": "Nebulizator dla dzieci",
@@ -46,7 +46,7 @@
       "price": 15.0,
       "id": 6,
       "category": ["weeksProducts", "Sprzęt medyczny"],
-      "url": "../../src/assets/products/inhalator.jpg"
+      "url": "inhalator"
     },
     {
       "name": "Mydło do rąk",
@@ -54,7 +54,7 @@
       "price": 7.0,
       "id": 7,
       "category": ["care", "Pielęgnacja"],
-      "url": "../../src/assets/products/mydlo.jpg"
+      "url": "mydlo"
     },
     {
       "name": "Odżywka do włosów",
@@ -62,7 +62,7 @@
       "price": 5.0,
       "id": 8,
       "category": ["care", "Pielęgnacja"],
-      "url": "../../src/assets/products/odzywka.jpg"
+      "url": "odzywka"
     },
     {
       "name": "Szampon do włosów",
@@ -70,7 +70,7 @@
       "price": 19.0,
       "id": 9,
       "category": ["care", "Pielęgnacja", "Promocje"],
-      "url": "../../src/assets/products/szampon.jpg"
+      "url": "szampon"
     },
     {
       "name": "Balsam do ust",
@@ -78,7 +78,7 @@
       "price": 10.0,
       "id": 10,
       "category": ["Pielęgnacja", "Promocje"],
-      "url": "../../src/assets/products/balsam.jpg"
+      "url": "balsam"
     },
     {
       "name": "Bandaż",
@@ -86,7 +86,7 @@
       "price": 8.0,
       "id": 11,
       "category": ["Środki opatrunkowe", "Promocje"],
-      "url": "../../src/assets/products/banda.jpg"
+      "url": "banda"
     },
     {
       "name": "Zestaw bandaży",
@@ -94,7 +94,7 @@
       "price": 20.0,
       "id": 12,
       "category": ["Środki opatrunkowe"],
-      "url": "../../src/assets/products/bandaze.jpg"
+      "url": "bandaze"
     },
     {
       "name": "Cisnieniomierz",
@@ -102,7 +102,7 @@
       "price": 50.0,
       "id": 13,
       "category": ["Sprzęt medyczny", "Promocje"],
-      "url": "../../src/assets/products/ciśnieniomerz.jpg"
+      "url": "cisnieniomerz"
     },
     {
       "name": "Glukometr",
@@ -110,7 +110,7 @@
       "price": 50.0,
       "id": 14,
       "category": ["Sprzęt medyczny"],
-      "url": "../../src/assets/products/glukometr.jpg"
+      "url": "glukometr"
     },
     {
       "name": "Krem do twarzy",
@@ -118,7 +118,7 @@
       "price": 40.0,
       "id": 15,
       "category": ["Pielęgnacja"],
-      "url": "../../src/assets/products/krem.jpg"
+      "url": "krem"
     },
     {
       "name": "Krem do twarzy",
@@ -126,7 +126,7 @@
       "price": 45.0,
       "id": 16,
       "category": ["Pielęgnacja"],
-      "url": "../../src/assets/products/krem2.jpg"
+      "url": "krem2"
     },
     {
       "name": "Plastry",
@@ -134,7 +134,7 @@
       "price": 20.0,
       "id": 17,
       "category": ["Środki opatrunkowe"],
-      "url": "../../src/assets/products/plastr.jpg"
+      "url": "plastr"
     },
     {
       "name": "Plastry",
@@ -142,7 +142,7 @@
       "price": 18.0,
       "id": 18,
       "category": ["Środki opatrunkowe"],
-      "url": "../../src/assets/products/plastry.jpg"
+      "url": "plastry"
     },
     {
       "name": "Termometr",
@@ -150,7 +150,7 @@
       "price": 18.0,
       "id": 20,
       "category": ["Sprzęt medyczny"],
-      "url": "../../src/assets/products/term.jpg"
+      "url": "term"
     },
     {
       "name": "Termometr",
@@ -158,7 +158,7 @@
       "price": 15.0,
       "id": 21,
       "category": ["Sprzęt medyczny"],
-      "url": "../../src/assets/products/termomet.jpg"
+      "url": "termomet"
     }
   ],
   "articles": [
