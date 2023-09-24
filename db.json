@@ -6,7 +6,7 @@
       "price": 10.0,
       "id": 1,
       "category": ["forYou", "Promocje"],
-      "url": mleko
+      "url": "mleko"
     },
     {
       "name": "Krem do twarzy",
